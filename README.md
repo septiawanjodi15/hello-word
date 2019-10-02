@@ -1,2 +1,3 @@
 # hello-word
 Pemula
+maafsayabarubeajar
